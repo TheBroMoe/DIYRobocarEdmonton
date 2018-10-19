@@ -8,3 +8,8 @@
 The big idea and reason for me being apart of this is that I am on a (currently) one man team, and basically starting from square one. Anybody who's interested in being apart of this project, please let me know!
 
 I intend on competing sometime at the end of fall or the beginning of winter, but plan to start now in building up my knowledge and experience in working with robotics both for electronics and software!
+
+## DIYRoboCars Rules &Regulations  
+## Design
+### Hardware 
+### Software 
